@@ -15,12 +15,12 @@ export const Button = styled.button`
   padding: 5px;
   background-color: #eeeee4;
   outline: none;
-  border: 2px solid rgba(128, 187, 236, 0.75);
+  border: 2px solid rgba(183, 106, 106, 0.82);
   border-radius: 5px;
   cursor: pointer;
 
   & :focus,
   :hover {
-    background-color: rgba(128, 187, 236, 0.75);
+    background-color: rgba(183, 106, 106, 0.82);
   }
 `;
